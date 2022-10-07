@@ -14,10 +14,10 @@ Due date 10/05/20222 at 8:30PM
 La imagen se encuentra en DockerHub en [Enlace Repositorio](https://hub.docker.com/r/camilo1909/frontn)
 
 # Frontend Deploy
-![Frontend Deploy](./evidencias/FrontendDeploy.png "Frontend Deploy")
+![Frontend Deploy](./Evidencias/FrontendDeploy.png "Frontend Deploy")
 
 # Docker Run
-![Docker Run](./evidencias/DockerRun.png "Docker Run")
+![Docker Run](./Evidencias/DockerRun.png "Docker Run")
 
 # Docker PS
-![Docker PS](./evidencias/DockerPS.png "Docker PS")
+![Docker PS](./Evidencias/DockerPS.png "Docker PS")
