@@ -6,3 +6,18 @@ Repor for workshop3
 
 
 Due date 10/05/20222 at 8:30PM
+
+
+### 
+<h1 align="center">Developed by Juan Camilo Vargas 💻 </h1>
+
+La imagen se encuentra en DockerHub en [Enlace Repositorio](https://hub.docker.com/r/camilo1909/frontn)
+
+# Frontend Deploy
+![Frontend Deploy](./evidencias/FrontendDeploy.png "Frontend Deploy")
+
+# Docker Run
+![Docker Run](./evidencias/DockerRun.png "Docker Run")
+
+# Docker PS
+![Docker PS](./evidencias/DockerPS.png "Docker PS")
